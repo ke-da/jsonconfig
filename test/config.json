@@ -1,0 +1,17 @@
+{
+	"dev": {
+		"hello": "Dev World",
+		"arr": ["dev1","dev2"],
+		"mapStr": {
+			"Key": "Value"
+		},
+		"strSlice": [
+			"Str1",
+			"Str2"
+		]
+	},
+	"test":{
+		"hello": "Test World",
+		"arr": ["test1","test2"]
+	}
+}
